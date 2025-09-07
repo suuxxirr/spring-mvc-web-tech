@@ -1,10 +1,10 @@
-package hello.thymeleaf;
+package hello.exception;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ThymeleafBasicApplicationTests {
+class ExceptionApplicationTests {
 
 	@Test
 	void contextLoads() {
