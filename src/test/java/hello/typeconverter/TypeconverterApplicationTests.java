@@ -1,10 +1,10 @@
-package hello.exception;
+package hello.typeconverter;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ExceptionApplicationTests {
+class TypeconverterApplicationTests {
 
 	@Test
 	void contextLoads() {
