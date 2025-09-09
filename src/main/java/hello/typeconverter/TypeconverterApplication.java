@@ -1,13 +1,13 @@
-package hello.thymeleaf;
+package hello.typeconverter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ThymeleafBasicApplication {
+public class TypeconverterApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ThymeleafBasicApplication.class, args);
+		SpringApplication.run(TypeconverterApplication.class, args);
 	}
 
 }
