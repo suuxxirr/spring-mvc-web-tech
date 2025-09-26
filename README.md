@@ -26,5 +26,5 @@
 
 
 ## 🚀 Next Step
-다음 학습 주제는 **Spring DB 기초**입니다.  
+다음 학습 주제는 [Spring DB 기초](https://github.com/suuxxirr/spring-db-basic)입니다.  
 
