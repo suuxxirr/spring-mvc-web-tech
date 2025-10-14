@@ -7,6 +7,8 @@
 👉 `main` 브랜치는  **학습 인덱스와 정리용 문서**만 포함합니다.
 
 
+[참고 강의](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-2/dashboard)
+
 
 ## 🚦 단계별 학습 목차
 
@@ -27,4 +29,7 @@
 
 ## 🚀 Next Step
 다음 학습 주제는 [Spring DB 기초](https://github.com/suuxxirr/spring-db-basic)입니다.  
+
+
+
 
