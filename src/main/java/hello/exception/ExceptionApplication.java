@@ -1,13 +1,13 @@
-package hello.thymeleaf;
+package hello.exception;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ThymeleafBasicApplication {
+public class ExceptionApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ThymeleafBasicApplication.class, args);
+		SpringApplication.run(ExceptionApplication.class, args);
 	}
 
 }
